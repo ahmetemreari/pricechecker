@@ -37,3 +37,4 @@ namespace PriceChecker
         }
     }
 }
+///Switch yapısı if else göre daha basit. Belirli bir değişkenin birden fazla neticesi olabilir. Bu da kod okunurluğunu arttırır.
